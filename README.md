@@ -14,7 +14,7 @@ When I'm not doing school work, I check layouts, adjust designs, or try tools th
 # Portfolio
 Here are some projects I've done over the past years:  
   
-+ ## [PageTurn]([https://github.com/nox-exe/HexLink](https://github.com/nox-exe/pageturn-system))
++ ## [PageTurn](https://github.com/nox-exe/HexLink](https://github.com/nox-exe/pageturn-system)
   + **Stack:** Javascript, Next.js (Framework), MySQL (Database), Tailwind CSS
   + **Developer(s):** nox ([nox-exe](https://github.com/nox-exe)), KRando ([KillerRandomizer](https://github.com/KillerRandomizer)), roshdoo ([roshdoo](https://github.com/roshdoo))
   + **Description:** PageTurn is a full-stack online bookstore application built with Next.js and MySQL. It features a robust shopping experience for customers and a comprehensive dashboard for administrators to manage inventory, users, and orders.
