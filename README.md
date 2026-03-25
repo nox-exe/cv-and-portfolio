@@ -1,6 +1,6 @@
 # About
 
-Hi. I'm Chlarisse.  
+Hi. I'm Nox.  
   
 I study Computer Science at CIIT. I started coding because I liked seeing something appear on the screen after a few lines. It made sense, so I kept going.  
   
